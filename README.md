@@ -1,2 +1,1 @@
-# devho
-# Developers Hangout
+# devho (Developers Hangout)
